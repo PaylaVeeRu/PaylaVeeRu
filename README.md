@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VeeRu
-- 👀 I’m interested in Freelancing.
+- 👀 I’m interested in Solving Real World Problems.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Real World Problem Solving.
 
